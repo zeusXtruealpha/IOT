@@ -57,7 +57,7 @@ Used to build this:
 
 First, clone the repository:
 ```bash
-git clone https://github.com/zeusXtruealpha/IOT.git waterqm
+git clone https://github.com/zeusXtruealpha/IOT](https://github.com/zeusXtruealpha/IOT-Water-Quality-Monitering.git waterqm
 cd waterqm
 ```
 
