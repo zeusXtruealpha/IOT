@@ -171,7 +171,7 @@ This project is licensed under the MIT License - feel free to use it for your ow
 
 Have questions? Want to chat? Reach out to us!
 
-Your Name - [niranjan.galla.7@gmail.com]
+Mail id - [niranjan.galla.7@gmail.com]
 
 Project Link: [https://github.com/zeusXtruealpha/IOT]
 
