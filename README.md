@@ -57,8 +57,8 @@ Used to build this:
 
 First, clone the repository:
 ```bash
-git clone <>
-cd aquaquality
+git clone https://github.com/zeusXtruealpha/IOT.git waterqm
+cd waterqm
 ```
 
 Install the dependencies:
