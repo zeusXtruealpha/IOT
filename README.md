@@ -1,4 +1,4 @@
-####Water Quality Monitoring System
+#### Water Quality Monitoring System
 
 Hey there! Welcome to AquaQuality - your smart solution for monitoring water quality in real-time! We've built this system to make water quality monitoring more efficient and accessible. Whether you're monitoring drinking water, industrial water, or environmental water bodies, this platform has got you covered!
 
